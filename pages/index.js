@@ -43,6 +43,8 @@ export default function Home() {
                     </dl>
                     <h2>What is the CRONAVIRUS smart contract address</h2>
                     <p><pre>0x039acec8659cc69a35e8a48c618c47128934b575</pre></p>
+                    <h2>Telegram group</h2>
+                    <a href="//t.me/cronavirusfinance">Cronavirus Telegram</a>
                 </section>
             </article>
         </main>
