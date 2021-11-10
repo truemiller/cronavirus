@@ -27,7 +27,7 @@ export default function Home() {
                     <h2>CRONAVIRUS Tokenomics</h2>
                     <p>100% Liquidity.</p>
                     <h2>Team</h2>
-                    <p>China.</p>
+                    <p><a href="//truemiller.com">True Miller</a>.</p>
                     <h2>Who to add CRONOS RPC to Metamask</h2>
                     <dl>
                         <dt>Network name</dt>
