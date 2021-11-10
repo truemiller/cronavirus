@@ -33,7 +33,8 @@ export default function Home() {
 
                     <h2>Tokenomics</h2>
                     <p>100% Liquidity.</p>
-
+                    <p>All liquidity has been minted and put up as LP. We cannot mint more.</p>
+                    <p>The total supply is 100M tokens.</p>
 
                     <h2>Team</h2>
                     <p><a href="//truemiller.com">True Miller</a>.</p>
