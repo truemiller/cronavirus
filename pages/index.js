@@ -28,6 +28,17 @@ export default function Home() {
                     <p>100% Liquidity.</p>
                     <h2>Team</h2>
                     <p>China.</p>
+                    <h2>Who to add CRONOS RPC to Metamask</h2>
+                    <dl>
+                        <dt>RPC URL</dt>
+                        <dd>https://evm-cronos.crypto.org</dd>
+                        <dt>Chain ID</dt>
+                        <dd>25</dd>
+                        <dt>Currency</dt>
+                        <dd>CRO</dd>
+                    </dl>
+                    <h2>What is the CRONAVIRUS smart contract address</h2>
+                    <p><pre>0x039acec8659cc69a35e8a48c618c47128934b575</pre></p>
                 </section>
             </article>
         </main>
