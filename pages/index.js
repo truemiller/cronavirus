@@ -30,12 +30,16 @@ export default function Home() {
                     <p>China.</p>
                     <h2>Who to add CRONOS RPC to Metamask</h2>
                     <dl>
+                        <dt>Network name</dt>
+                        <dd>Cronos Mainnet Beta</dd>
                         <dt>RPC URL</dt>
                         <dd>https://evm-cronos.crypto.org</dd>
                         <dt>Chain ID</dt>
                         <dd>25</dd>
                         <dt>Currency</dt>
                         <dd>CRO</dd>
+                        <dt>Block Explorer</dt>
+                        <dd>https://cronos.crypto.org/explorer</dd>
                     </dl>
                     <h2>What is the CRONAVIRUS smart contract address</h2>
                     <p><pre>0x039acec8659cc69a35e8a48c618c47128934b575</pre></p>
