@@ -23,6 +23,11 @@ export default function Home() {
                     <h2>About</h2>
                     <p>A CRONOS EVM-based reflect token.</p>
 
+                    <h2>How it works</h2>
+                    <p>Transactions are a subject to a 4% burn and 3% redistribution to all holders.</p>
+                    <p>Every transaction creates deflationary pressures on the asset.</p>
+                    <p>Buy early, hold long, win big. It's that simple.</p>
+
                     <h2>Mission</h2>
                     <p>To go viral. And provide a simple way to generate income for all.</p>
 
@@ -41,6 +46,7 @@ export default function Home() {
                     <p>TBA</p>
 
                     <h2>FAQs</h2>
+
                     <h3>How to buy CRONAVIRUS</h3>
                     <p>CRONAVIRUS is available for trading on <a href="https://app.elk.finance/#/swap?inputCurrency=0x039acec8659cc69a35e8a48c618c47128934b575">Elk.Finance</a>.</p>
                     <p>You must increase the slippage tolerance to 7% to trade.</p>
