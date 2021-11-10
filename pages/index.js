@@ -19,12 +19,16 @@ export default function Home() {
                     <img src="/cronavirus.png" alt="CRONAVIRUS"/>
                 </section>
                 <section className={"row offset-md-3 col-md-6"}>
-                    <h2>What is CRONAVIRUS</h2>
+
+                    <h2>About</h2>
                     <p>A CRONOS EVM-based reflect token.</p>
-                    <h2>CRONAVIRUS Mission</h2>
+
+                    <h2>Mission</h2>
                     <p>To go viral. And provide a simple way to generate income for all.</p>
-                    <h3>CRONAVIRUS Tokenomics</h3>
+
+                    <h2>Tokenomics</h2>
                     <p>100% Liquidity.</p>
+
                     <h2>FAQs</h2>
                     <h3>How to buy CRONAVIRUS</h3>
                     <h2>Team</h2>
