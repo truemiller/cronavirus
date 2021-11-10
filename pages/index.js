@@ -21,14 +21,17 @@ export default function Home() {
                 <section className={"row offset-md-3 col-md-6"}>
                     <h2>What is CRONAVIRUS</h2>
                     <p>A CRONOS EVM-based reflect token.</p>
-                    <h2>How to buy CRONAVIRUS</h2>
-                    <p>CRONAVIRUS is available for trading on <a href="https://app.elk.finance/#/swap?inputCurrency=0x039acec8659cc69a35e8a48c618c47128934b575">Elk.Finance</a>.</p>
-                    <p>You must increase the slippage tolerance to 7% to trade.</p>
-                    <h2>CRONAVIRUS Tokenomics</h2>
+                    <h2>CRONAVIRUS Mission</h2>
+                    <p>To go viral. And provide a simple way to generate income for all.</p>
+                    <h3>CRONAVIRUS Tokenomics</h3>
                     <p>100% Liquidity.</p>
+                    <h2>FAQs</h2>
+                    <h3>How to buy CRONAVIRUS</h3>
                     <h2>Team</h2>
                     <p><a href="//truemiller.com">True Miller</a>.</p>
-                    <h2>Who to add CRONOS RPC to Metamask</h2>
+                    <p>CRONAVIRUS is available for trading on <a href="https://app.elk.finance/#/swap?inputCurrency=0x039acec8659cc69a35e8a48c618c47128934b575">Elk.Finance</a>.</p>
+                    <p>You must increase the slippage tolerance to 7% to trade.</p>
+                    <h3>How to add CRONOS RPC to Metamask</h3>
                     <dl>
                         <dt>Network name</dt>
                         <dd>Cronos Mainnet Beta</dd>
@@ -41,10 +44,12 @@ export default function Home() {
                         <dt>Block Explorer</dt>
                         <dd>https://cronos.crypto.org/explorer</dd>
                     </dl>
-                    <h2>What is the CRONAVIRUS smart contract address</h2>
+                    <h3>What is the CRONAVIRUS smart contract address</h3>
                     <p><pre>0x039acec8659cc69a35e8a48c618c47128934b575</pre></p>
-                    <h2>Telegram group</h2>
+                    <h2>Social Media</h2>
                     <a href="//t.me/cronavirusfinance">Cronavirus Telegram</a>
+                    <h2>Whitepaper</h2>
+                    <p>TBA</p>
                 </section>
             </article>
         </main>
