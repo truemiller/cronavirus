@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import "bootswatch/dist/zephyr/bootstrap.css"
+import "bootswatch/dist/cyborg/bootstrap.css"
 import "react-bootstrap"
 export default function Home() {
   return (
